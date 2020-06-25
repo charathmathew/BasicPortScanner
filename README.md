@@ -5,6 +5,7 @@
 A very basic python port scanner that scans ports in the range of 50-85 of a given IP address. Indicates whether a port is open. 
 
 <br>
+Usage: python port_scanner.py <ip-address/hostname>
 <br>
 
 I made this port scanner while learning and doing research on penetration testing.

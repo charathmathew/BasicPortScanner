@@ -13,7 +13,7 @@ if len(sys.argv) == 2:
 
 else:
     print("Invalid or missing arguments")
-    print("Syntax: python3 port-scanner <ip/hostname>")
+    print("Usage: python port-scanner <ip/hostname>")
     sys.exit()
 
 

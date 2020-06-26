@@ -7,9 +7,8 @@ A very basic python port scanner that scans ports in the range of 1-100 of a giv
 Usage: python port_scanner.py <ip-address/hostname>
 
 <br>
-<br>
 
-![Capture.png](https://github.com/charathmathew/BasicPortScanner/blob/master/Capture.PNG "Usage Demo")
+![Capture.png](https://github.com/charathmathew/BasicPortScanner/blob/master/Capture.PNG?raw=true "Usage Demo")
 
 
 I made this port scanner while learning and doing research on penetration testing.

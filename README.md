@@ -9,7 +9,7 @@ Usage: python port_scanner.py <ip-address/hostname>
 <br>
 <br>
 
-![Capture.png](/Capture.png?raw=true "Usage Demo")
+![Capture.png](https://raw.github.com/charathmathew/BasicPortScanner/master/Capture.png?raw=true "Usage Demo")
 
 
 I made this port scanner while learning and doing research on penetration testing.

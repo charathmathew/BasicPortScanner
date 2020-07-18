@@ -1,8 +1,8 @@
 # BasicPortScanner
 
-### A very basic port scanner
+### A port scanner
 
-A very basic python port scanner that scans ports in the range of 1-100 of a given IP address. Indicates whether a port is open. 
+A simple multithreaded python port scanner that scans ports in the range of 1-100 of a given IP address. Indicates whether a port is open. 
 
 Usage: python port_scanner.py <ip-address/hostname>
 
